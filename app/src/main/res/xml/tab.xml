@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tabs>
+    <!--相机-->
+    <tab name="Camera" />
+    <!--滑动器-->
+    <tab name="Sliders" />
+</Tabs>

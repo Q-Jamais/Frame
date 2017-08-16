@@ -1,0 +1,31 @@
+<resources>
+    <!--App名称-->
+    <string name="app_name">Frame</string>
+
+    <!--主页Menu菜单(右上角)-->
+    <string name="main_menu_1">重新排列</string>
+    <string name="main_menu_2">设置</string>
+
+    <!--侧滑-->
+    <string name="drawerOpen">OPEN</string>
+    <string name="drawerClose">CLOSE</string>
+
+    <!--权限提示-->
+    <string name="permission_get_accounts_hint">没有获取联系人的权限，请开启权限。</string>
+    <string name="permission_read_phone_hint">没有获取手机信息权限，请开启权限</string>
+    <string name="permission_call_phone_hint">没有打电话的权限，请开启权限。</string>
+    <string name="permission_camera_hint">没有此权限，无法开启这个功能，请开启权限。</string>
+    <string name="permission_access_fine_location_hint">没有获取位置信息的权限，请开启权限。</string>
+    <string name="permission_access_coarse_location_hint">没有获取位置信息的权限，请开启权限。</string>
+    <string name="permission_read_external_hint">没有存储卡权限，请开启权限。</string>
+    <string name="permission_white_external_hint">没有存储卡权限，请开启权限。</string>
+    <string name="permission_recode_audio_hint">没有麦克风权限，请开启权限。</string>
+    <string name="title_activity_un">UnActivity</string>
+
+    <!--Tab_MainActivity-->
+    <string name="tab_camera">Camera</string>
+    <string name="tab_sliders">Sliders</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
